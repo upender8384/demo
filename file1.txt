@@ -1,0 +1,19 @@
+# printing hello world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo"helo world"

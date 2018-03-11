@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/upender/.cache/upstart/gpg-agent.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/upstart-event-bridge.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/update-notifier-release.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/session-migration.log" 2018-3-9-13:0:24
+"/home/upender/.cache/upstart/unity-panel-service.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/gnome-keyring.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/*.log" 2018-3-9-14:0:0
+"/home/upender/.cache/upstart/gnome-keyring-ssh.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/dbus.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/indicator-sound.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/window-stack-bridge.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/unity-settings-daemon.log" 2018-3-10-16:8:54
+"/home/upender/.cache/upstart/unity7.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/hud.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/ssh-agent.log" 2018-3-11-11:12:39
+"/home/upender/.cache/upstart/bamfdaemon.log" 2018-3-11-11:12:39
